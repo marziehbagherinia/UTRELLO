@@ -1,0 +1,67 @@
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Do Everything
+Write the whole code
+Priority: 10
+Estimated Time: 12
+Assigned to Bardia
+
+Success
+Success
+Success
+Success
+Success
+Success
+Bardia
+Zhivar
+Amir
+
+Zhivar
+Amir
+Bardia
+
+1 | Upload Assignment | Unassigned | 1h
+
+Success
+1 | Write Description | Amir | 3h
+2 | Destroy code formatting | Zhivar | 1h
+
+Success
+Success
+Have fun
+Just do it
+Priority: 2
+Estimated Time: 10
+Unassigned
+
+List Code
+10 | Do Everything | Bardia | 12h
+2 | Destroy code formatting | Zhivar | 1h
+2 | Have fun | Unassigned | 10h
+
+List Code
+10 | Do Everything | Bardia | 12h
+2 | Destroy code formatting | Zhivar | 1h
+2 | Have fun | Unassigned | 10h
+
+List Description
+1 | Write Description | Amir | 3h
+
+List Misc
+
+
+1 | Write Description | Amir | 3h
+
+2 | Have fun | Unassigned | 10h
+
+1 | Write Description | Amir | 3h
+2 | Destroy code formatting | Zhivar | 1h
+2 | Have fun | Unassigned | 10h
+
